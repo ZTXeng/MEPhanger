@@ -1,0 +1,5 @@
+E:\支吊架开发\TestHanger\TestHanger\bin\Debug\TestHanger.dll
+E:\支吊架开发\TestHanger\TestHanger\bin\Debug\TestHanger.pdb
+E:\支吊架开发\TestHanger\TestHanger\obj\Debug\TestHanger.csproj.CoreCompileInputs.cache
+E:\支吊架开发\TestHanger\TestHanger\obj\Debug\TestHanger.dll
+E:\支吊架开发\TestHanger\TestHanger\obj\Debug\TestHanger.pdb
